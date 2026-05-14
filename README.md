@@ -1,2 +1,2 @@
 # semantic-segmentation-hackathon
-"My Offroad Semantic Segmentation Hackathon Project"
+"this is My Offroad Semantic Segmentation Hackathon Project"
